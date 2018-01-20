@@ -7,6 +7,6 @@
    "corsConfiguration": [],
    "enableCloudfront": false,
    "retries": 20,
-   "domain": "webpack-sample-web",
+   "domain": "my-reads-webpack-deploy",
    "configFile": ".s3-website.json"
 }
